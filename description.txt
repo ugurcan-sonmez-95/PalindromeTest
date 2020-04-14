@@ -1,0 +1,10 @@
+PalindromeTest
+
+A palindrome is a word, number, phrase etc. that reads the same backwards or forwards.
+
+For example:
+abba
+madam 
+racecar
+
+Write a program that gets an input from the user and checks whether it is a palindrome or not.
